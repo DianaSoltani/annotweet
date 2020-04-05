@@ -1,0 +1,4 @@
+[submodule "annotweet-fe"]
+	path = annotweet-fe
+	url = https://github.com/DylanBelka/annotweet-fe
+	branch = master
